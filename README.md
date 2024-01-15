@@ -1,6 +1,6 @@
 # Techfest-MFA
 
-This is a full-stack application server developed using the [Okta MFA Microservice](https://github.com/sudoshreyansh/mfa-microservice).
+This is a full-stack application server developed using the [Okta MFA Microservice]([https://github.com/sudoshreyansh/mfa-microservice](https://github.com/Amanp16/mfa-microservices)).
 
 It's developed to showcase the capabilities of the microservice and implements the following:
 - [x] Multi-factor authentication using email
